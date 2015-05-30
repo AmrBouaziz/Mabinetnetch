@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mabinetnech</string>
+    <string name="title_activity_login">Login or Register</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add_thread">Add new Thread</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="login_email_edit_text_hint">Name or email</string>
+    <string name="login_password_edit_text_hint">Password</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="button_login_text">Login</string>
+    <string name="title_activity_threads">ThreadsActivity</string>
+    <string name="thread_item_layout_image_view_description">profile_picture</string>
+    <string name="title_activity_add_thread">AddThreadActivity</string>
+    <string name="title_activity_comments">CommentsActivity</string>
+</resources>
